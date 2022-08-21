@@ -1,0 +1,3 @@
+../Middlewares/ST/netxduo/common/src/nx_ram_network_driver.c:155:7:_nx_ram_network_driver	56	static
+../Middlewares/ST/netxduo/common/src/nx_ram_network_driver.c:668:7:_nx_ram_network_driver_output	48	static
+../Middlewares/ST/netxduo/common/src/nx_ram_network_driver.c:866:7:_nx_ram_network_driver_receive	32	static

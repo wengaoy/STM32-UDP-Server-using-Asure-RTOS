@@ -1,0 +1,8 @@
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:43:9:nx_eth_phy_init	16	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:65:9:nx_eth_phy_get_link_state	16	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:78:21:nx_eth_phy_get_handle	4	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:89:9:lan8742_io_init	8	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:106:9:lan8742_io_deinit	4	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:118:9:lan8742_io_read_reg	24	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:128:9:lan8742_io_write_reg	24	static
+../Middlewares/ST/netxduo/common/drivers/ethernet/lan8742/nx_stm32_phy_driver.c:142:9:lan8742_io_get_tick	8	static

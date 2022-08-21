@@ -1,0 +1,5 @@
+../NetXDuo/App/app_netxduo.c:76:6:MX_NetXDuo_Init	56	static
+../NetXDuo/App/app_netxduo.c:220:13:ip_address_change_notify_callback	16	static
+../NetXDuo/App/app_netxduo.c:231:13:App_Main_Thread_Entry	32	static
+../NetXDuo/App/app_netxduo.c:271:13:App_UDP_Thread_Entry	576	static
+../NetXDuo/App/app_netxduo.c:344:13:App_Link_Thread_Entry	40	static
